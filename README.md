@@ -26,15 +26,6 @@ npm install
 npm start
 ```
 
-### モック環境でサーバー起動
-
-```bash
-npm run start:mock
-# ログインには以下を使用
-# email: mock@trustart.co.jp
-# password: trust1234
-```
-
 ### テストの実行
 
 ```bash
