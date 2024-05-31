@@ -89,5 +89,5 @@ src/features/awesome-feature
 |
 +-- container.ts    # 機能のロジックに関心を持つ
 |
-+-- presenter.ts    # 機能のUIに関心を持つ
++-- presenterr.ts    # 機能のUIに関心を持つ
 ```
